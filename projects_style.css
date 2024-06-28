@@ -1,0 +1,42 @@
+.navbar {
+    background-color: #fff;
+    position: relative;
+    top: 70px;
+    left: 110px;
+    border: #4a2f09, solid, 2px;
+    border-radius: 20px;
+    text-decoration: none;
+    width: 1200px;
+    height: 50px;
+    word-spacing: 2px;
+    display: flex;
+    justify-content: space-around;
+    overflow-x: hidden;
+}
+.navbar a {
+    font-family: "Macondo";
+    float: left;
+    color: #4a2f09;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.navbar a:hover {
+    background-color: #BDA592;
+    color: black;
+}
+header {
+    font-family: "Sedan SC";
+    font-size: 50px;
+    color: #4a2f09;
+    text-align: center;
+    position: absolute;
+    bottom: 600px;
+    left: 515px;
+}
+body {
+    background-image: url(Screenshot\ 2024-06-17\ 212128.png);
+    background-repeat: repeat;
+    background-size: cover;
+}
